@@ -28,6 +28,5 @@ Fiz o app Utilizado a ferramenta app inventor,porque é uma ferramenta simples d
 ### Código app inventor 
 <p align="center">
   <img src="App Inventor.png"width="900" height="350">
- APP
 </p>
 

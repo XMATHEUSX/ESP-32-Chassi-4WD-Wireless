@@ -1,6 +1,9 @@
 # ESP-32-Chassi-4WD-Wireless
 Criando um Carrinho de Controle Remoto. Uma projeto que queria fazer desde que era pequeno,pois os carrinho que minha mãe comprava quebravam muito rápido.
 ## Hardware
+<p align="center">
+  <img src="car.jpeg">
+</p>
 Foi utilizado os seguintes componentes : 
  - 1  ESP-32
  - 2 pontes L298N
@@ -13,7 +16,9 @@ Foi utilizado os seguintes componentes :
 ### Carro
 Programei o ESP através da IDE do Arduino .
 
-
 ### App Bluetooth
 Fiz o app Utilizado a ferramenta app inventor,porque é uma ferramenta simples de trabalhar e muito poderosa para criação de app mobile.
-![App](app_bluetooth.jpeg)
+<p align="center">
+  <img src="app_bluetooth.jpeg">
+ APP
+</p>

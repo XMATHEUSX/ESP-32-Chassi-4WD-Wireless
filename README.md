@@ -11,7 +11,7 @@ Foi utilizado os seguintes componentes :
  - 12 pilhas
  
  <p align="center">
-  <img src="car.jpeg" width="491" height="175">
+  <img src="car.jpeg" width="700" height="500">
 </p>
 
 ## Software
@@ -21,11 +21,13 @@ Programei o ESP através da IDE do Arduino .
 
 ### App Bluetooth
 Fiz o app Utilizado a ferramenta app inventor,porque é uma ferramenta simples de trabalhar e muito poderosa para criação de app mobile.
-<p align="left">
-  <img src="App Inventor.png"width="800" height="800">
+<p align="center">
+  <img src="app_bluetooth.jpeg"width="270" height="585">
+</p>
+
+### Código app inventor 
+<p align="center">
+  <img src="App Inventor.png"width="900" height="350">
  APP
 </p>
-<p align="right">
-  <img src="app_bluetooth.jpeg"width="200" height="800">
- APP
-</p>
+

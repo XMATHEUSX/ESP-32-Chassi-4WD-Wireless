@@ -1,5 +1,6 @@
 # ESP-32-Chassi-4WD-Wireless
-Criando um Carrinho de Controle Remoto. Uma projeto que queria fazer desde que era pequeno,pois os carrinho que minha mãe comprava quebravam muito rápido.
+Criando um Carrinho de Controle Remoto.Um projeto que queria fazer desde que era pequeno, pois os carrinho que minha mãe comprava quebravam muito rápido.
+
 ## Hardware
 
 Foi utilizado os seguintes componentes : 
